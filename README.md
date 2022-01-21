@@ -4,10 +4,10 @@
   </h3>
 </a>
 <p align="center">
-  <a href="https://github.com/libDrive/libDrive/releases">
+  <a href="https://github.com/onmail12/lib/releases">
     <img src="https://img.shields.io/github/downloads/libDrive/libDrive/total?color=%234197fe&style=for-the-badge" />
   </a>
-  <a href="https://github.com/libDrive/libDrive/releases/latest">
+  <a href="https://github.com/onmail12/lib/releases/latest">
     <img src="https://img.shields.io/github/v/release/libDrive/libDrive?color=%234197fe&style=for-the-badge" />
   </a>
 </p>
